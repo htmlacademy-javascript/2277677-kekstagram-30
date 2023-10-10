@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Inna](https://up.htmlacademy.ru/javascript/30/user/2277677).
-* Наставник: `Неизвестно`.
+* Наставник: [Анастасия Гущина](https://htmlacademy.ru/profile/vanastasiya).
 
 ---
 
